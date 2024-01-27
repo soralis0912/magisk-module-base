@@ -1,0 +1,6 @@
+{
+    "version": "v01",
+    "versionCode": 1,
+    "zipUrl": "https://github.com/soralis0912/magisk-module-base/releases/latest/download/magisk-module-base.zip",
+    "changelog": "https://raw.githubusercontent.com/soralis0912/magisk-module-base/master/changelog.md"
+}

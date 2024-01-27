@@ -1,0 +1,7 @@
+id=soralis0912-magisk-base
+name=Magisk Module Template
+version=v01
+versionCode=01
+author=soralis0912
+description=Magisk Module Template
+updateJson=https://raw.githubusercontent.com/soralis0912/magisk-module-base/master/update.json
